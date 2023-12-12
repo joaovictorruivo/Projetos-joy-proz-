@@ -1,0 +1,31 @@
+header {
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+span {
+    color: rgb(82, 25, 187);
+}
+
+nav {
+    color: rgb(107, 104, 104);
+    padding: 65px;
+    margin: 34px;
+    border: 8px solid black;
+}
+
+.Outras-Pág {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 8px;
+}
+
+h1 , h2 {
+    background-color: blueviolet;
+    margin: 10px;
+}
+
+footer {
+    color: rgb(107, 104, 104);
+    padding: 65px;
+    margin: 34px;
+    border: 8px solid black;
+}
