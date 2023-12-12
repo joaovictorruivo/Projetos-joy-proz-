@@ -1,0 +1,41 @@
+header {
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+span {
+    display: flex;
+    justify-content: center;
+    color: rgb(15, 2, 41);
+}
+
+nav {
+    color: rgb(107, 104, 104);
+    padding: 65px;
+    margin: 34px;
+    border: 8px solid black;
+}
+
+.Outras-Pág {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 8px;
+}
+
+h1 , h2 {
+    background-color: blueviolet;
+    margin: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    color: rgb(107, 104, 104);
+    padding: 65px;
+    margin: 34px;
+    border: 8px solid black;
+}
+
+li {
+    display: flex;
+    justify-content: flex-end;
+}
